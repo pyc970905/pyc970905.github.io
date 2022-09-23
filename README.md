@@ -4,16 +4,15 @@
 </br>
 
 ## :pushpin: Intro
-2022. 02. 12 : 공주대학교 자동차 공학과 졸업
-2022. 09. 22 : 비트교육센터 클라우드 기반 빅데이터 전문가 양성 과정 수료
+>2022. 02. 12 : 공주대학교 자동차 공학과 졸업
+>2022. 09. 22 : 비트교육센터 클라우드 기반 빅데이터 전문가 양성 과정 수료
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
-
+- E-mail : thermo12357@naver.com
+- Velog : https://velog.io/@pyc970905
+- Github : https://github.com/pyc970905
 </br>
 
 ## :pushpin: Projects
